@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": false,
+    "editor.minimap.autohide": true,
+    "editor.fontLigatures": true,
+    "diffEditor.codeLens": true,
+    "editor.formatOnSaveMode": "file",
+    "typescript.tsdk": "node_modules/typescript/lib"
+}
